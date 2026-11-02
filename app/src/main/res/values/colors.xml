@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quotely_paper">#F2F3EF</color>
+    <color name="quotely_ink">#121A2B</color>
+    <color name="quotely_cobalt">#2447D8</color>
+    <color name="quotely_signal">#E8590C</color>
+</resources>
